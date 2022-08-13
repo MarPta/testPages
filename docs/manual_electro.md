@@ -1,7 +1,7 @@
 ---
 title: Electro
 layout: template
-filename: manual_electro
+filename: manual_electro.md
 --- 
 
 # testPages
