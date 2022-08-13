@@ -1,6 +1,6 @@
 ---
 title: Macha
-layout: template
+layout: Minimal
 filename: manual_mecha.md
 --- 
 

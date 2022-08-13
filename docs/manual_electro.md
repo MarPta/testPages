@@ -1,6 +1,6 @@
 ---
 title: Electro
-layout: template
+layout: Minimal
 filename: manual_electro.md
 --- 
 
