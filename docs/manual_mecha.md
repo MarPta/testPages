@@ -1,7 +1,7 @@
 ---
 title: Macha
 layout: template
-filename: manual_mecha.md
+filename: manual_mecha
 --- 
 
 # testPages
